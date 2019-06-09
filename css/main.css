@@ -1931,7 +1931,10 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7f9f37;
+  background: #fff;
+}
+.links-of-author-item {
+  text-align: center;
 }
 .links-of-blogroll {
   font-size: 13px;
